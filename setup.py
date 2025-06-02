@@ -8,6 +8,6 @@ setuptools.setup(
   url = 'https://github.com/seoyoung0501/oss25',
   download_url='https://github.com/seoyoung0501/oss25',
   packages= ['ff'],
-  classifiers=["Programming Language ::Python :: 3",
+  classifiers=["Programming Language :: Python :: 3",
   ]
 )
