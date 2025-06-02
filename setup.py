@@ -10,3 +10,4 @@ setuptools.setup(
   packages= ['ff'],
   classifiers=["programming Language ::Python :: 3",
   ]
+)
